@@ -26,3 +26,5 @@ This proble 4 swapping the nibbles in a byte
 separates the 8-bit input into its two 4-bit nibbles, shifts them to their new positions, and then combines them using the ORR instruction, storing the final swapped value in r1.
 
 YT LINK: https://youtu.be/uEzjlqrkEnM
+
+# PROBLEM 5: Find the Maximum Value in an Array
