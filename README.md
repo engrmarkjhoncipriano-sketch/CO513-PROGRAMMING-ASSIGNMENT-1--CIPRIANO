@@ -9,7 +9,6 @@ It multiplies the running result in r1 by the current counter r2.
 It then decrements the counter (SUB r2, r2, #1).
 The loop executes for r2 = 4, 3, and 2. When reaches 1, the loop terminates. The result, 24 in decimal and 18 in hexadecimal, is stored in register r1.
 
- # 
- YT LINK: https://youtu.be/mYAhycGxqjM
+ #  YT LINK: https://youtu.be/mYAhycGxqjM
 
 #PROBLEM 2: Eucledian Algorithim for GCD
