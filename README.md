@@ -12,3 +12,10 @@ The loop executes for r2 = 4, 3, and 2. When reaches 1, the loop terminates. The
 YT LINK: https://youtu.be/mYAhycGxqjM
 
 # PROBLEM 2: Eucledian Algorithim for GCD
+
+# PROBLEM 3: Bitwise Parity Checker
+
+This problem 3 performs bitwise parity checker
+It uses an iterative loop to examine the input integer in register r0 bit-by-bit, starting with the Least Significant Bit (LSB). The core of the algorithm uses the Exclusive OR (EOR) instruction to toggle a parity flag in register r1 every time a set bit (1) is found. After processing all 32 bits via logical shifting, the final value in r1 indicates the parity: 0 for an even count of set bits, and 1 for an odd count.
+
+YT LINK:https://youtu.be/0PmWLRFeLYg
