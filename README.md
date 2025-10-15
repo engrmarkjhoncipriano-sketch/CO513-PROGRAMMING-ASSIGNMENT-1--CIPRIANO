@@ -11,4 +11,4 @@ The loop executes for r2 = 4, 3, and 2. When reaches 1, the loop terminates. The
 
 YT LINK: https://youtu.be/mYAhycGxqjM
 
-#PROBLEM 2: Eucledian Algorithim for GCD
+# PROBLEM 2: Eucledian Algorithim for GCD
