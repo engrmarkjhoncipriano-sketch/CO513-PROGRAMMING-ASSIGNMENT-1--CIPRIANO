@@ -13,6 +13,10 @@ YT LINK: https://youtu.be/mYAhycGxqjM
 
 # PROBLEM 2: Eucledian Algorithim for GCD
 
+This problem 2 program computes the Greatest Common Divisor (GCD) of two positive integers using the Euclidean algorithm. Instead of using the division instruction (UDIV), it finds the remainder through repeated subtraction in the mod_sub subroutine. The program repeatedly replaces a with b and b with a mod b until b becomes zero. The final value in r0 is the GCD result.
+
+YT LINK: https://youtu.be/myj26gq-eGg
+
 # PROBLEM 3: Bitwise Parity Checker
 
 This problem 3 performs bitwise parity checker
